@@ -1,0 +1,29 @@
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\bin\Debug\dasspiel.exe
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\bin\Debug\dasspiel.pdb
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\obj\x86\Debug\dasspiel.Properties.Resources.resources
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\obj\x86\Debug\dasspiel.exe
+C:\Users\Joe\AppData\Local\Temporary Projects\dasspiel\obj\x86\Debug\dasspiel.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\dasspiel.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\dasspiel.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\bin\Debug\dasspiel.exe.config
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\bin\Debug\dasspiel.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\bin\Debug\dasspiel.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\dasspiel.Properties.Resources.resources
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\bin\Debug\xmldoc.xml
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\bin\Debug\dasspiel.exe.config
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Debug\dasspiel.exe
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Debug\dasspiel.pdb
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\bin\Debug\dasspiel.exe
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\bin\Debug\dasspiel.pdb
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\bin\Debug\xmldoc.xml
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Debug\dasspiel.csprojResolveAssemblyReference.cache
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Debug\dasspiel.Properties.Resources.resources
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Debug\dasspiel.csproj.GenerateResource.Cache

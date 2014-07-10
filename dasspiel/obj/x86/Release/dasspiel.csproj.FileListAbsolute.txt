@@ -1,0 +1,14 @@
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\bin\Release\dasspiel.exe.config
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\bin\Release\dasspiel.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\bin\Release\dasspiel.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Release\dasspiel.Properties.Resources.resources
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Release\dasspiel.exe
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Release\dasspiel.pdb
+C:\Users\Joe\documents\visual studio 2010\Projects\dasspiel\dasspiel\obj\x86\Release\dasspiel.temp.resources
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Release\dasspiel.csprojResolveAssemblyReference.cache
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Release\dasspiel.Properties.Resources.resources
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Release\dasspiel.csproj.GenerateResource.Cache
+G:\GitHub Repos\Unnamed-2012-game-concept-testing---Scrapped\dasspiel\obj\x86\Release\dasspiel.exe

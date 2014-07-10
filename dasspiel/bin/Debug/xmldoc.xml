@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>dasspiel</name>
+    </assembly>
+    <members>
+        <member name="T:dasspiel.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.sEnc1">
+            <summary>
+              Looks up a localized string similar to X.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.sEnc2">
+            <summary>
+              Looks up a localized string similar to X.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.sEnc3">
+            <summary>
+              Looks up a localized string similar to X.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.sEnc4">
+            <summary>
+              Looks up a localized string similar to X.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.sEnc5">
+            <summary>
+              Looks up a localized string similar to X.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.sEnc6">
+            <summary>
+              Looks up a localized string similar to X.
+            </summary>
+        </member>
+        <member name="P:dasspiel.Properties.Resources.strCore">
+            <summary>
+              Looks up a localized string similar to X.
+            </summary>
+        </member>
+        <member name="T:dasspiel.GameLogic.MManager">
+            <summary>
+            Contains data relating to mouse status that can be shared between application threads.
+            Processes mouse events passed by the graphics module.
+            </summary>
+        </member>
+        <member name="M:dasspiel.GameLogic.UIElement.SetVertecies(Microsoft.DirectX.Vector4[],System.Int32[])">
+            <summary>
+            Populates the UIElement's vFrame variable with vertex data.
+            </summary>
+            <param name="vVerts">An array of Vertex4 elements to be used in a triangle. Count must be a multiple of 3.</param>
+            <param name="iColor">An integer representation of the desired color for the vertex of matching index. Using .ToArgb() useful.</param>
+        </member>
+    </members>
+</doc>

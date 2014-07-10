@@ -1,0 +1,47 @@
+// this file should be encrypted using combo1:61 or an update to the first line in gamesettingsmanager.cs\ConfigCoreSettings() must be made
+
+strFNSettings=settings.txt
+strMyDocsPath=DasSpiel\
+strRegPath=Software\DasSpiel
+strRegSettings=Settings
+strProtectedSettings=
+
+strGenericParseFail[0]=Unable to parse command; command not recognized.
+strGenericParseFail[1]=Unable to parse command {0}; expected {1} arguement(s).
+strGenericParseFail[2]=Unable to parse command {0}; invalid arguments(s) passed: {1}
+strGenericParseFail[3]=Enter "{0} ?" for usage.
+
+strCCmd[0]=exit
+strUsage[0,0]=Exit:  Quickly shuts down the application.  Unsaved settings and data are lost.
+strUsage[0,1]=Usage:  exit
+
+strCCmd[1]=tdt
+strUsage[1,0]=Toggle Debug Text:  Toggles the display of sorted variables for debugging purposes.
+strUsage[1,1]=Usage:  tdt i
+strUsage[1,2]=          i - An integer from 0 to 2 representing the desired page to show.  Enter 0 to hide debug text.
+
+strCCmd[2]=spam
+
+strCCmd[3]=cls
+strUsage[3,0]=Clear Screen:  Clears the console's output history, cannot be undone.  Command history is retained.
+strUsage[3,1]=Usage:  cls
+
+strCCmd[4]=getsetting
+strUsage[4,0]=Get Setting:  Returns the current value of the specified setting name if it exists.
+strUsage[4,1]=Usage: getsetting varname
+strUsage[4,2]=          varname - The name of the setting to be returned.  Case sensitive.
+strCOutput[4,0]=Setting "{0}" does not exist.
+
+strCCmd[5]=setsetting
+strUsage[5,0]=Set Setting:  Sets a configration setting to the specified value.  Cannot be used to create a new setting.
+strUsage[5,1]=Usage:  setsetting varname, value
+strUsage[5,2]=          varname - The name of the setting to be adjusted.  Case sensitive.
+strUsage[5,3]=          value - The value to set the provided varname to.
+strUsage[5,4]=                      Enclose strings containing commas in quotation marks.  Represent boolean values with 'true' or 'false'.
+strCOutput[5,0]=Unable to set {0}; setting is read-only.
+strCOutput[5,1]=Unable to convert {0} to type {1}.
+
+strCCmd[6]=rgfx
+strUsage[6,0]=Refresh Graphics:  Updates the graphics renderer with manually entered graphics settings.
+strUsage[6,1]=Usage:  rgfx
+
